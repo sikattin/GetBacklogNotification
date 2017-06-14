@@ -1,0 +1,2 @@
+# GetBacklogNotification
+Backlogの自分宛の通知件数をSlackから確認する的なbot
